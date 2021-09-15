@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My PFP] (https://cdn.discordapp.com/avatars/821303296018743336/08fa49adc4c7de6aff0541b614db55a0.png?size=1024)
